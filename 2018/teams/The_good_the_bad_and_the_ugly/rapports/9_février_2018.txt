@@ -1,0 +1,13 @@
+RAPPORT OPENDEV
+GROUPE : The good the bad and the ugly
+COMPOSE DE : BENSADOK Imrane
+	     GALLARDO Marie
+	     PARAIN Gaultier
+
+--- SEANCE 5 -------------------------------------------------------------------------------------------
+
+Après avoir regardé tous les sujets proposés, nous avons décidé de choisir le projet ROASSAL. Nous avons pris contact avec les développeurs via mail.
+
+Nous avons donc installé Roassal sur notre Pharo afin d'en découvrir les différents aspects. Nous avons suivis des tutoriels d'initiation à Roassal afin d'en comprendre l'environnement à travers des exemples que nous avons pu manipuler.
+
+Au cours de la séance, Alexandre Bergel a répondu à notre mail, nous proposant divers projets sur lesquels travailler.

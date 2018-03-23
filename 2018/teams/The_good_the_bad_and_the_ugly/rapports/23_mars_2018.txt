@@ -1,0 +1,13 @@
+RAPPORT OPENDEV
+GROUPE : The good the bad and the ugly
+COMPOSE DE : BENSADOK Imrane
+	     GALLARDO Marie
+	     PARAIN Gaultier
+
+--- SEANCE 10 -------------------------------------------------------------------------------------------
+
+Dernière séance :
+
+Nous avons cherché à améliorer les commentaires du projet notamment les classes principales que nous avons eue du mal à comprendre au départ.
+
+Nous avons essayé de rendre cela plus compréhensible pour les prochaines personnes qui allaient utiliser Roassal.

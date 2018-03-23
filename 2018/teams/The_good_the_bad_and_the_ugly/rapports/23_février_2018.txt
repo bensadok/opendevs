@@ -1,0 +1,11 @@
+RAPPORT OPENDEV
+GROUPE : The good the bad and the ugly
+COMPOSE DE : BENSADOK Imrane
+	     GALLARDO Marie
+	     PARAIN Gaultier
+
+--- SEANCE 7 -------------------------------------------------------------------------------------------
+
+Nous avons continué à explorer les packages du projet ROASSAL en première partie de TD.
+
+Puis nous avons continué à faire le diaporama pour l'oral.

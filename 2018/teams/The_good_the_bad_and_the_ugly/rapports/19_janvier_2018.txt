@@ -2,7 +2,7 @@ RAPPORT OPENDEV
 GROUPE : The good the bad and the ugly
 COMPOSE DE : BENSADOK Imrane
 	     GALLARDO Marie
-	     PARRAIN Gaultier
+	     PARAIN Gaultier
 
 --- SEANCE 2 -------------------------------------------------------------------------------------------
 

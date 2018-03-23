@@ -1,0 +1,26 @@
+RAPPORT OPENDEV
+GROUPE : The good the bad and the ugly
+COMPOSE DE : BENSADOK Imrane
+	     GALLARDO Marie
+	     PARAIN Gaultier
+
+--- SEANCE 6 -------------------------------------------------------------------------------------------
+
+Nous avons regardé les projets envoyé par Milton Mamani et nous en avons repéré deux:
+	- Map Projection Distortions
+	- Clustering in a matrix
+
+Nous avons identifié les packages principaux à savoir (il y en a au total 75) :
+	- Core
+	- Shapes
+	- Interrations
+	- ColorNormalizer
+	- Layout
+
+Ensuite, nous nous sommes concentrés sur ces packages pour comprendre l'utilité de ses classes ainsi que leurs méthodes.
+
+Nous avons commencé une ébauche de diaporama pour la présentation orale.
+
+Nous avons crée un projet sur small talk hub pour pouvoir envoyé nos propositions de modifications à Alexandre Bergel.
+
+
